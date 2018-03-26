@@ -22,7 +22,7 @@
   "scripts": {
     "install": "(node-gyp rebuild) || (exit 0)",
     "test": "nodeunit ./test",
-    "prebuild": "prebuild --runtime electron --strip"
+    "prebuild": "prebuild --runtime electron --target 1.7.12 --strip"
   },
   "author": "Christian Amor Kvalheim",
   "license": "Apache-2.0",
