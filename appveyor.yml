@@ -18,9 +18,9 @@ artifacts:
 
 deploy:
   - provider: S3
-    access_key_id: AKIAJOX7OEK66QCWOHGA
+    access_key_id: AKIAJBRBFVFYSPAEPT5Q
     secret_access_key:
-      secure: BDVHjsolbFf8c3zDxSKnF+B6ZUzXcEzj2VDu6Mxiey9dI/kTuT8qiRViEUimktZ6
+      secure: mnfzcUrMCjMzLYjo8Gy+b+ZJbqaf0Mr0guJhdJYByXtY/p3NEYlzXEfLPWZTbwyi
     region: us-east-1
     bucket: studio-native-dependencies
     artifact: kerberos
