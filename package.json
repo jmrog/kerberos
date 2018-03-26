@@ -22,7 +22,7 @@
   "scripts": {
     "install": "(node-gyp rebuild) || (exit 0)",
     "test": "nodeunit ./test",
-    "prebuild": "prebuild --all --strip""
+    "prebuild": "prebuild --all --strip"
   },
   "author": "Christian Amor Kvalheim",
   "license": "Apache-2.0",
