@@ -18,8 +18,7 @@ artifacts:
 
 deploy:
   - provider: S3
-    access_key_id:
-      secure: QNtu9t7wpNL/lZMFTS0R9epuavlPmyhfvGfA59torF4=
+    access_key_id: AKIAJOX7OEK66QCWOHGA
     secret_access_key:
       secure: BDVHjsolbFf8c3zDxSKnF+B6ZUzXcEzj2VDu6Mxiey9dI/kTuT8qiRViEUimktZ6
     region: us-east-1
