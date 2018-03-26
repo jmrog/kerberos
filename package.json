@@ -13,7 +13,8 @@
     "authentication"
   ],
   "dependencies": {
-    "nan": "~2.6.2"
+    "nan": "~2.6.2",
+    "prebuild": "^7.4.0"
   },
   "devDependencies": {
     "nodeunit": "latest"
